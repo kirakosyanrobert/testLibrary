@@ -1,0 +1,5 @@
+export const SHOW_SIGNIN_MODAL = 'SHOW_SIGNIN_MODAL';
+export const SHOW_SIGNUP_MODAL  = 'SHOW_SIGNUP_MODAL';
+
+
+
